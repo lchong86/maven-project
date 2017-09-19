@@ -1,4 +1,4 @@
 /**
- * Testing Jenkins
+ * Testing Jenkins.
  */
 package com.example;
